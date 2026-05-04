@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TrackFlow – Bug Report Form (Broken Version)
 
 ## Your Mission
@@ -59,3 +60,6 @@ Open a GitHub PR with:
 - A short video recording (~2–3 min) walking through each fixed bug
 
 Good luck — the sprint planning crew is counting on you!
+=======
+# Broken-Form
+>>>>>>> origin/main
